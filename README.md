@@ -1,7 +1,7 @@
 # PLP-Week-4-AI-For-Software-Engineering
 # Part 1: Theoretical_Analysis
 
-## 1. Short_Answer_ Questions
+## 1.1. Short_Answer_ Questions
 
 ### Q1: Explain how AI-driven code generation tools (e.g., GitHub Copilot) reduce development time. What are their limitations?
 Answer:AI-driven code generation tools like GitHub Copilot help reduce development time by suggesting relevant code snippets, completing functions, and generating repetitive or boilerplate code automatically. This speeds up the coding process and allows developers to focus on problem-solving and logic rather than manual typing.
@@ -33,3 +33,10 @@ Answer:
 -Bias mitigation is critical in AI-driven user experience personalization because biased algorithms can lead to unfair, inaccurate, or discriminatory outcomes. If an AI model is trained on biased data, it may favor certain groups of users over others, resulting in unequal recommendations, content visibility, or access to features.
 
 -By applying bias mitigation techniques, developers ensure that personalization remains fair, inclusive, and representative of all user groups. This helps build trust, improve user satisfaction, and protect against ethical and legal issues related to discrimination or unfair treatment.
+
+##1.2.  Case Study Analysis
+### Question:  How does AIOps improve software deployment efficiency? Provide two examples.
+
+Answer:
+-Automated Anomaly Detection:AIOps tools automatically spot unusual system behavior during deployment (like slow response times or CPU spikes) and alert teams early to prevent downtime.
+-Predictive Resource Management:AIOps analyzes past data to predict resource needs and automatically adjusts infrastructure, ensuring smoother and more efficient releases.
