@@ -39,4 +39,5 @@ Answer:
 
 Answer:
 -Automated Anomaly Detection:AIOps tools automatically spot unusual system behavior during deployment (like slow response times or CPU spikes) and alert teams early to prevent downtime.
+
 -Predictive Resource Management:AIOps analyzes past data to predict resource needs and automatically adjusts infrastructure, ensuring smoother and more efficient releases.
